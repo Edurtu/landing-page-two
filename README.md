@@ -1,17 +1,14 @@
 # Landing Page Two
-
 > A simple landing page.
-
-It is a simple landing page exercise of a Faztweb tutorial.
-
-[**Faztweb**][faztweb] | [**Github**][gith] 
-
-***
 
 ## Screenshot
 ![Etcher](docs/screenshot.jpg)
 
 ***
+
+It is a simple landing page exercise of a Faztweb tutorial.
+
+[**Faztweb**][faztweb] | [**Github**][gith] 
 
 
 [faztweb]: https://www.faztweb.com
